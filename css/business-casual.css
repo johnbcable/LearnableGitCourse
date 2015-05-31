@@ -183,6 +183,10 @@ footer p {
     }
 }
 
+.brand {
+    color: #ff0000;
+}
+
 @media screen and (min-width:1200px) {
     .box:after {
         content: '';
