@@ -187,6 +187,10 @@ footer p {
     color: #fab11c;
 }
 
+#footertext {
+    fotn-size: 22px;
+}
+
 @media screen and (min-width:1200px) {
     .box:after {
         content: '';
